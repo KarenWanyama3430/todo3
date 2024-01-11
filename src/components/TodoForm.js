@@ -20,4 +20,3 @@ export const TodoForm = ({addTodo}) => {
   </form>
   )
 }
-    
